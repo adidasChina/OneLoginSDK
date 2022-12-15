@@ -1,4 +1,0 @@
-EAccountApiSDK.xcframework.zip filter=lfs diff=lfs merge=lfs -text
-OneLoginSDK.xcframework.zip filter=lfs diff=lfs merge=lfs -text
-TYRZUISDK.xcframework.zip filter=lfs diff=lfs merge=lfs -text
-account_login_sdk_noui_core.xcframework.zip filter=lfs diff=lfs merge=lfs -text
