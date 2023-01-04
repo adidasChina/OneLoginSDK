@@ -21,10 +21,7 @@ let package = Package(
                 "TYRZUISDK",
                 "OneLoginSDK"
             ],
-            path: "OneLoginSDK",
-            resources: [
-                .process("Assets")
-            ]
+            path: "OneLoginSDK"
         ),
         .binaryTarget(
             name: "account_login_sdk_noui_core",
