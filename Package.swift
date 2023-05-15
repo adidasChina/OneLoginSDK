@@ -25,23 +25,23 @@ let package = Package(
         ),
         .binaryTarget(
             name: "account_login_sdk_noui_core",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.7/account_login_sdk_noui_core.xcframework.zip",
-            checksum: "ea322747a26b87065ebcd000214fbd8dadb000b7b0c6b095b810beed1db0f8c8"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.8/account_login_sdk_noui_core.xcframework.zip",
+            checksum: "3ac333eb98763f7150ebe43ff1c88a2c2ee5066d9eb0ff1e66b15020ed6be9f6"
         ),
         .binaryTarget(
             name: "EAccountApiSDK",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.7/EAccountApiSDK.xcframework.zip",
-            checksum: "a1d74791e3fa98c23ec481d9159f034a488af25dab8aa0f2694568a7ffca7e4a"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.8/EAccountApiSDK.xcframework.zip",
+            checksum: "8217af0b8ecddd3a90e37856c4ef716df1005dc39e4b7fa8b9ee10628f15baf3"
         ),
         .binaryTarget(
             name: "TYRZUISDK",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.7/TYRZUISDK.xcframework.zip",
-            checksum: "7f6a3f33ff1bad5f8cc5adfc0fad1498f5dcc03d86048f00ee7e172f054de742"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.8/TYRZUISDK.xcframework.zip",
+            checksum: "8edf7c6b57bc68164dda131e3bade1e57c8a17e2792505ed33bf210c939a16ea"
         ),
         .binaryTarget(
             name: "OneLoginSDK",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.7/OneLoginSDK.xcframework.zip",
-            checksum: "eec8b789e1425147959c2d2f88fd9918e484074a1e82b19b10740e5d46b3917b"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.8/OneLoginSDK.xcframework.zip",
+            checksum: "5ee770b1e1733bbcc6e04e17b2de79eb6e4edbfe6635d189c2b619f059d36c67"
         )
     ]
 )
