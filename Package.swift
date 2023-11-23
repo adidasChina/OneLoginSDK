@@ -19,29 +19,35 @@ let package = Package(
                 "account_login_sdk_noui_core",
                 "EAccountApiSDK",
                 "TYRZUISDK",
+                "OAuth",
                 "OneLoginSDK"
             ],
             path: "OneLoginSDK"
         ),
         .binaryTarget(
             name: "account_login_sdk_noui_core",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.9/account_login_sdk_noui_core.xcframework.zip",
-            checksum: "9a4c5b893e57ca3bb19472c0fa6c1b3c09e73260d61bc14c37ae1b61d1e7c919"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.10/account_login_sdk_noui_core.xcframework.zip",
+            checksum: "e57d753943b534c894b9c9fa6b74101bede1d170378022bb395e69714ee534bf"
         ),
         .binaryTarget(
             name: "EAccountApiSDK",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.9/EAccountApiSDK.xcframework.zip",
-            checksum: "14a886b01e2f8a343f76072f339ff0b1f0537aefe85f8707e2b783026845c808"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.10/EAccountApiSDK.xcframework.zip",
+            checksum: "1f96aee2eb6e4dbc27ee0731a4eb62e8d7901bb92c1cd8c33b934244878a57f8"
         ),
         .binaryTarget(
             name: "TYRZUISDK",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.9/TYRZUISDK.xcframework.zip",
-            checksum: "16ba5a561fad52f9bfdaa4268f684278fc481483f1b783d823eb77d6ba2a5650"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.10/TYRZUISDK.xcframework.zip",
+            checksum: "ee83d53834460e92cedb47b79078ab613408693adb136c9ce5251b412e920714"
+        ),
+        .binaryTarget(
+            name: "OAuth",
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.10/OAuth.xcframework.zip",
+            checksum: "94e72e5da0fbb36c8c7c0a1ba6277408ae2f1020c997010883a12cb2740a2c9e"
         ),
         .binaryTarget(
             name: "OneLoginSDK",
-            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.9/OneLoginSDK.xcframework.zip",
-            checksum: "b913c48f3955f72f422b3f787181bb5a7f3747e198d75e376f482f0c4f4aa14d"
+            url: "https://github.com/adidasjc/OneLoginSDK/releases/download/1.0.10/OneLoginSDK.xcframework.zip",
+            checksum: "36c9472471133266106a3264ea74564b28ef5822f4e1e2bfe4be12978ac58c47"
         )
     ]
 )
